@@ -1,1 +1,2 @@
 # Basic-Calculator
+This project is a basic calculator app I developed as a school project using C#. It includes fundamental operations like addition, subtraction, multiplication, and division, with a simple interface built with Windows Forms. Through this project, I got hands-on experience with C# programming and learned how to create a user-friendly interface for desktop applications. The code is straightforward and easy to follow, making it a good resource for beginners learning C# or anyone looking to understand the basics of building simple applications in C#!
